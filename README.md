@@ -81,7 +81,7 @@ The Predict button was present, but the defined automated verification condition
 
 The complete testing report is available here:
 
-[📄 View Testing Report](test-report/Titanic_Testing_Report.pdf)
+[📄 View Testing Report](Titanic Testing Report/index.html)
 
 ---
 
@@ -97,7 +97,7 @@ The complete testing report is available here:
 
 ### 3. Testing Report Demonstration
 
-[▶️ Watch Video 3](https://drive.google.com/file/d/1SfEvdgrTLssGpRj45hwinTFceNblgoRo/view?usp=sharing))
+[▶️ Watch Video 3](https://drive.google.com/file/d/1SfEvdgrTLssGpRj45hwinTFceNblgoRo/view?usp=sharing)
 
 ---
 
