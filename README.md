@@ -1,4 +1,4 @@
-# 🚢 Titanic Automation Testing
+# 🚢 Titanic Selenium Automation Testing
 
 ## 📌 Project Overview
 
