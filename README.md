@@ -81,7 +81,8 @@ The Predict button was present, but the defined automated verification condition
 
 The complete testing report is available here:
 
-[📄 View Testing Report](https://tanujasurve4.github.io/Titanic-Selenium-Automation-Testing/SeleniumAutomation/TitanicTestingReport/)
+[📄 View Testing Report](https://tanujasurve4.github.io/Titanic-Selenium-Automation-Testing/SeleniumAutomation/TitanicTestingReport/index.html
+)
 
 ---
 
